@@ -1,6 +1,8 @@
 # My Blog's proxy site on Heroku App
 
-A [proxy site](http://zhengsuizhan-blogspot.herokuapp.com) of [my Google Blog](http://zhengsuizhan.blogspot.com),accessible inside the GFW.
+A [proxy site](http://zhengsuizhan-blogspot.herokuapp.com) of [my Google Blog](http://zhengsuizhan.blogspot.com), accessible inside the GFW.
+And also my blog's descirption of this program:
+[在Heroku为墙外博客搭建墙内可访的爬虫代理](http://zhengsuizhan.blogspot.com/2015/02/herokuproxy.html)
 
 ## Running Locally
 
