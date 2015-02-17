@@ -1,8 +1,6 @@
-# python-getting-started
+# My Blog's proxy site on Heroku App
 
-A barebones Python app, which can easily be deployed to Heroku.
-
-This application support the [Getting Started with Python on Heroku](https://devcenter.heroku.com/articles/getting-started-with-python) article - check it out.
+A [proxy site](http://zhengsuizhan-blogspot.herokuapp.com) of [my Google Blog](http://zhengsuizhan.blogspot.com),accessible inside the GFW.
 
 ## Running Locally
 
